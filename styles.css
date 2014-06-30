@@ -1,0 +1,187 @@
+* {
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+.container {
+
+   
+    background-color: #F0F8FF;
+    color: blue;
+    margin: auto;
+    border-radius: 15px;
+
+}
+
+
+
+header {
+    
+    height: 75px;
+    position: relative;
+    background-color: blue;
+    color: white;
+    border: 1px solid #777;
+
+
+}
+
+.login {
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    top: 0;
+
+}    
+
+/* Default Input */
+.login input {
+
+    display: block;
+    float: right;
+    height: 30px;
+    width: 250px;
+    border: 1px solid black;
+    border-radius:5px;
+    font-size:12px;
+    font: Francois One, sans-serif;
+    text-decoration: none;
+    margin-right: 10px;
+    margin-top: 10px;
+
+}
+
+
+h1 {
+    float: left;
+    width: 600px;
+    margin-top: 10px;
+    margin-left: 100px; 
+    font-family: 'Oswald', sans-serif;
+
+    
+
+}
+
+
+
+main {
+
+    overflow: hidden;
+    border-bottom: 1px solid black;
+    margin: auto;
+    display: block;
+
+
+}
+
+aside {
+
+    
+    float: left;
+    width: 700px;
+    
+}
+
+h2 {
+
+    width: 200px;
+
+}
+
+aside nav {
+    width: 700px;
+    border-right: 1px solid black;
+    height: 500px;
+    padding: 1px;
+
+}
+
+.dropdown {
+
+    height: 400px;
+    width: 500px;
+    background-color: red;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.section {
+    width: 660px;
+    overflow: hidden;
+    
+}
+
+.signup {
+
+   height: 400px;
+   width: 500px; 
+   background-color: gray;
+   margin: auto;
+   margin-top: 20px;
+
+}
+
+/*#register {
+
+    margin-left: 200px;
+    margin-top: 50px;*/
+
+
+
+footer {
+
+    background-color: orange;
+    color: white;
+    height: 50px;
+    border-bottom: 1px solid black; 
+
+}
+
+footer p {
+
+    text-align: center;
+
+}
+
+.footerLogo {
+
+     overflow: hidden;
+     position: absolute;
+}
+
+.logo {
+    float: left;
+    color: white;
+    margin: 10px;
+    text-decoration:none;
+    background-color: red;
+
+}
+
+
+.navbar {
+    float: right;
+    margin: 5px;
+    display: block;
+    
+}  
+
+
+.nav {
+
+    padding: 5px, 10px;
+    color: white;
+    text-decoration:none;
+    margin: 0 5px;
+    background-color: red;
+    
+
+}
+
+</style>
+    
