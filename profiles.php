@@ -63,7 +63,7 @@ class Controller extends AppController {
 
             $mentors_html .= "<li>
               <div class='outer'>
-                <a href='profiles.php'><img src='http://project_name.com/mentorconnect/images/stefan_nyc.jpg'></a>
+                <a href='profiles.php'><img src='images/{$mentor['image']}'></a>
                 <div class='content'>
                   <h4>{$mentor['first_name']} {$mentor['last_name']}</h4>
                   <p>{$mentor['role']}</p>
@@ -84,10 +84,11 @@ class Controller extends AppController {
             foreach ($mentees as $mentee) {
                 # code...
 
+                //http://project_name.com/mentorconnect/images/stefan_nyc.jpg
 
             $mentees_html .= "<li>
               <div class='outer'>
-                <a href='profiles.php'><img src='http://project_name.com/mentorconnect/images/stefan_nyc.jpg'></a>
+                <a href='profiles.php'><img src='images/{$mentee['image']}'></a>
                 <div class='content'>
                   <h4>{$mentee['first_name']} {$mentee['last_name']}</h4>
                   <p>{$mentee['role']}</p>
