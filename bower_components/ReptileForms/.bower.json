@@ -16,12 +16,12 @@
     "test",
     "tests"
   ],
-  "version": "0.1.13",
-  "_release": "0.1.13",
+  "version": "0.1.14",
+  "_release": "0.1.14",
   "_resolution": {
     "type": "version",
-    "tag": "v0.1.13",
-    "commit": "4336345a30c363d564cc4497282d191ac2b5265a"
+    "tag": "v0.1.14",
+    "commit": "ba0066ddb8a0e24b136a131245924888c867fd06"
   },
   "_source": "git://github.com/bradwestfall/ReptileForms.git",
   "_target": "*",

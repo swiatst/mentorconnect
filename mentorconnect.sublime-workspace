@@ -1,1 +1,1099 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"error",
+				"errorarray"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ca",
+				"category_name"
+			],
+			[
+				"cate",
+				"category_name"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"st",
+				"font-style"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"a",
+				"aside	Tag"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"sql",
+				"sql_array"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"pri",
+				"priority"
+			],
+			[
+				"pr",
+				"print_r"
+			],
+			[
+				"sql_",
+				"sql_peeps"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"com",
+				"company_info"
+			],
+			[
+				"compa",
+				"company_id"
+			],
+			[
+				"Oppr",
+				"Opportunities"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"fr",
+				"friends"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"err",
+				"errors"
+			],
+			[
+				"pa",
+				"password2"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"add",
+				"addParticipants"
+			],
+			[
+				"de",
+				"defaultSettings"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"get",
+				"getRules"
+			],
+			[
+				"default",
+				"default_settings"
+			],
+			[
+				"c",
+				"custom_settings"
+			],
+			[
+				"p",
+				"product"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"my",
+				"mysqli"
+			],
+			[
+				"m",
+				"mysqli"
+			],
+			[
+				"s",
+				"sql"
+			],
+			[
+				"game",
+				"gameID"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"cart",
+				"cartItems"
+			],
+			[
+				"car",
+				"cartItems"
+			],
+			[
+				"pro",
+				"productName"
+			],
+			[
+				"ge",
+				"gequip"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"le",
+				"length2"
+			],
+			[
+				"strln",
+				"strlen"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
+				"li",
+				"listings"
+			],
+			[
+				"lin",
+				"listings"
+			],
+			[
+				"median",
+				"MedianPrice"
+			],
+			[
+				"M",
+				"MSA_City"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"Highest",
+				"HighestRank"
+			],
+			[
+				"Lowe",
+				"LowestRank"
+			],
+			[
+				"Lo",
+				"LowestRank"
+			],
+			[
+				"C",
+				"CurMonthRank"
+			],
+			[
+				"lis",
+				"listing"
+			],
+			[
+				"mon",
+				"MonthMedianAge"
+			],
+			[
+				"Mo",
+				"MonthListing"
+			],
+			[
+				"Cit",
+				"CityName"
+			],
+			[
+				"City",
+				"CityRank"
+			],
+			[
+				"e",
+				"error"
+			],
+			[
+				"last",
+				"last_name"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"city",
+				"cityPrice"
+			],
+			[
+				"Med",
+				"MedianAge"
+			],
+			[
+				"Me",
+				"MedianAge"
+			],
+			[
+				"max",
+				"maxCity"
+			],
+			[
+				"media",
+				"MedianAge"
+			],
+			[
+				"Median",
+				"MedianAge"
+			],
+			[
+				"l",
+				"listing"
+			],
+			[
+				"lea",
+				"leastExpensiveListing"
+			],
+			[
+				"mo",
+				"mostExpensiveListing"
+			],
+			[
+				"list",
+				"listing"
+			],
+			[
+				"ls",
+				"listing"
+			],
+			[
+				"ini",
+				"ini_set"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"render",
+				"renderView"
+			],
+			[
+				"ren",
+				"renderView"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"pi",
+				"pizzatype"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 9897,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "profiles.php",
+			"settings":
+			{
+				"buffer_size": 1742,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "login_ajax.php",
+			"settings":
+			{
+				"buffer_size": 1125,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 1218,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 3108,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "signup.php",
+			"settings":
+			{
+				"buffer_size": 2243,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"selected_items":
+		[
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sn",
+				"Snippet: starts a page in jQuery"
+			],
+			[
+				"edit ",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"snippet ",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"mak",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"make",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"snip",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/stefanswiat/Sites/project_name/mentorconnect/logout_ajax.php",
+		"/Users/stefanswiat/Sites/project_name/mentorconnect/app/views/primary_header.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/logout.php",
+		"/Users/stefanswiat/Sites/project_name/Ajax/index.html",
+		"/Users/stefanswiat/Sites/project_name/Ajax/main.js",
+		"/Users/stefanswiat/Sites/project_name/Ajax/homework.js",
+		"/Users/stefanswiat/Sites/project_name/Ajax/homework.html",
+		"/Users/stefanswiat/Sites/project_name/Ajax/cities.php",
+		"/Users/stefanswiat/Sites/project_name/Ajax/friends.php",
+		"/Users/stefanswiat/Sites/project_name/mentorconnect/js/main.js",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/main.js",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/header.php",
+		"/Users/stefanswiat/Sites/project_name/mentorconnect/app/views/main.php",
+		"/Users/stefanswiat/Sites/project_name/mentorconnect/login_ajax.php",
+		"/Users/stefanswiat/Sites/project_name/mentorconnect/reg.php",
+		"/Users/stefanswiat/Sites/project_name/mentorconnect/login-ajax.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/account.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/companydetail.php",
+		"/Users/stefanswiat/Sites/project_name/mentorconnect/login.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/login.php",
+		"/Users/stefanswiat/Sites/project_name/mentorconnect/choose_value.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/signup.php",
+		"/Users/stefanswiat/Sites/project_name/mentorconnect/app/core/initialize.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/initialize.php",
+		"/Users/stefanswiat/Sites/project_name/mentorconnect/app/models/skill.class.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/companies.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/survey.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/survey.css",
+		"/Users/stefanswiat/Sites/project_name/mentorconnect/play.php",
+		"/Users/stefanswiat/Sites/project_name/mentorconnect/profiles.php",
+		"/Users/stefanswiat/Sites/project_name/Shopping Cart/index.html",
+		"/Users/stefanswiat/Sites/project_name/Cart/cart.js",
+		"/Users/stefanswiat/Sites/project_name/Shopping Cart/main.js",
+		"/Users/stefanswiat/Sites/project_name/mentorconnect/css/styles.css",
+		"/Users/stefanswiat/Sites/project_name/Shopping Cart/styles.css",
+		"/Users/stefanswiat/Sites/project_name/mentorconnect/echo.html",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/style.css",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/styles.css",
+		"/Users/stefanswiat/Sites/project_name/mentorconnect/app/views/primary_footer.php",
+		"/Users/stefanswiat/Sites/project_name/mentorconnect/app/controllers/app_controller.class.php",
+		"/Users/stefanswiat/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/headerin.php",
+		"/Users/stefanswiat/Sites/project_name/mentorconnect/index.html",
+		"/Users/stefanswiat/Sites/project_name/mentorconnect/styles.css",
+		"/Users/stefanswiat/Sites/project_name/mentorconnect/app/app_settings.php",
+		"/Users/stefanswiat/Sites/project_name/mentorconnect/phptest.php",
+		"/Users/stefanswiat/Sites/project_name/mentorconnect/index.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/clean-demo-copy/style.css",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/index.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/company.css",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/db.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/newaverages.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/verify.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/db_credentials.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/PHP-Database-Class-Example/db.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/table.css",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/priority.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/notloggedin.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/handlebars-v1.3.0.js",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/lostpwd.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/signform copy.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/template.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/signform.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/template.css",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/newuser copy.php",
+		"/Users/stefanswiat/Sites/project_name/Ajax/bower_components/jquery/dist/jquery.js",
+		"/Users/stefanswiat/Sites/project_name/Ajax/bower_components/jquery/src/ajax/jsonp.js",
+		"/Users/stefanswiat/Sites/project_name/php-db-forms/test.php",
+		"/Users/stefanswiat/Sites/project_name/php-db-forms/common.php",
+		"/Users/stefanswiat/Sites/project_name/php-db-forms/login.php",
+		"/Users/stefanswiat/Sites/project_name/php-db-forms/header_guy.php",
+		"/Users/stefanswiat/Sites/project_name/php-db-forms/initialize.php",
+		"/Users/stefanswiat/Sites/project_name/php-db-forms/header.php",
+		"/Users/stefanswiat/Sites/project_name/php-db-forms/index.php",
+		"/Users/stefanswiat/Sites/project_name/php-db-forms/tables.sql",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/testpayload.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/newuser.php",
+		"/Users/stefanswiat/Sites/project_name/lesson/rushita.css",
+		"/Users/stefanswiat/Sites/project_name/php-db-forms/README.md",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/search.php",
+		"/Users/stefanswiat/Sites/project_name/lesson/responsive.css",
+		"/Users/stefanswiat/Sites/project_name/phpforms1/success.html",
+		"/Users/stefanswiat/Sites/project_name/Forms/index.php",
+		"/Users/stefanswiat/Sites/project_name/Forms/homework.php",
+		"/Users/stefanswiat/Sites/project_name/PHP Game/controller.php",
+		"/Users/stefanswiat/Sites/project_name/PHP Game/view.php",
+		"/Users/stefanswiat/Sites/project_name/Team-Synergy-Team/payload.php",
+		"/Users/stefanswiat/Sites/project_name/phpforms1/index.php",
+		"/Users/stefanswiat/Sites/project_name/tgGames/games.sql",
+		"/Users/stefanswiat/Sites/project_name/PHP Game/index.php",
+		"/Users/stefanswiat/Sites/project_name/test.php",
+		"/Users/stefanswiat/Sites/project_name/lesson/jslesson.html",
+		"/Users/stefanswiat/Sites/project_name/lesson/jspatterns.js",
+		"/Users/stefanswiat/Sites/project_name/PHP Game/inside_job/index.php",
+		"/Users/stefanswiat/Sites/project_name/PHP Game/model.php",
+		"/Users/stefanswiat/Sites/project_name/PHP Game/listGames.php",
+		"/Users/stefanswiat/Sites/project_name/PHP Game/gameDetail.php",
+		"/Users/stefanswiat/Sites/project_name/lesson/index.php",
+		"/Users/stefanswiat/Sites/project_name/lesson/mysqlselect.php",
+		"/Users/stefanswiat/Sites/project_name/Cart/index.html",
+		"/Users/stefanswiat/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/stefanswiat/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/stefanswiat/Sites/project_name/Cart/cart.css",
+		"/Users/stefanswiat/Sites/project_name/tgGames/add_edit_games.php",
+		"/Users/stefanswiat/Sites/project_name/tgGames/index.html",
+		"/Users/stefanswiat/Sites/project_name/tgGames/mysql_intro/mysql.php",
+		"/Users/stefanswiat/Sites/project_name/tgGames/mysql_intro/user.sql",
+		"/Users/stefanswiat/Sites/project_name/tgGames/game_overview.html",
+		"/Users/stefanswiat/Sites/project_name/tgGames/submitGame.php",
+		"/Users/stefanswiat/Sites/project_name/tgGames/styles.css",
+		"/Users/stefanswiat/Sites/project_name/tgGames/games.js",
+		"/Volumes/Untitled/practice-jquery/main.js",
+		"/Volumes/Untitled/first-design-master/setup.css",
+		"/Volumes/Untitled/first-design-master/design.css",
+		"/Users/stefanswiat/Sites/project_name/Forms/styles.css",
+		"/Volumes/Untitled/practice-jquery/main2.js",
+		"/Volumes/Untitled/practice-jquery/index.html",
+		"/Users/stefanswiat/Sites/project_name/Forms/loops.php",
+		"/Users/stefanswiat/Sites/project_name/index.php",
+		"/Users/stefanswiat/Sites/project_name/realestate_loops/realestate_data_clean.json",
+		"/Users/stefanswiat/Sites/project_name/realestate_loops/realestate_loops.php",
+		"/Volumes/Untitled/first-design-master/index.html",
+		"/Users/stefanswiat/Sites/project_name/Forms/process.php",
+		"/Users/stefanswiat/Desktop/Boot Camp/May13/main.js",
+		"/Users/stefanswiat/Desktop/Boot Camp/May13/project.html",
+		"/Users/stefanswiat/Desktop/Boot Camp/Cart/main.js",
+		"/Users/stefanswiat/Library/Application Support/Sublime Text 3/Packages/User/htmljs.sublime-snippet",
+		"/Users/stefanswiat/Library/Application Support/Sublime Text 3/Packages/User/jQueryStartPage.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"title",
+			"titled",
+			"state",
+			"profile",
+			"placeholder",
+			"red",
+			"white",
+			"signup",
+			"sql",
+			"balance",
+			"{$reviews[$i]['WLBalance']}",
+			"balance",
+			"i",
+			"company_id",
+			"students",
+			"salary",
+			"leadership",
+			"equality",
+			"salary",
+			"balance",
+			"richterscale",
+			"Game",
+			"custom_settings",
+			"titles",
+			"className",
+			"products",
+			"*/",
+			"/*",
+			"red",
+			"logo",
+			"lettuce",
+			"banana",
+			"wordComparer",
+			"Rank",
+			"rank",
+			"Rank",
+			"rank",
+			"CurMonthRank",
+			"MedianPrice",
+			"class",
+			"MedianAge",
+			"listing",
+			"person",
+			"shirtColor: 'red'",
+			"height",
+			"name",
+			"person",
+			"case 4:"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9897,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3110,
+								3217
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3564.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "profiles.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1742,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								329,
+								329
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 110.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "login_ajax.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 30.0,
+						"translation.y": 5.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								79
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								539,
+								579
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 98.0,
+						"translation.y": 71.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "signup.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								637,
+								637
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.408179492883,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "mentorconnect.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"m",
+				"~/Sites/project_name/mentorconnect/mentorconnect.sublime-project"
+			],
+			[
+				"",
+				"~/Sites/project_name/Team-Synergy-Team/headerin.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

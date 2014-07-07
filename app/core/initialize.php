@@ -3,7 +3,7 @@
 /****************************************
   ENVIRONMENT SETTINGS
 *****************************************/
-
+session_start();
 // Currency
 setlocale(LC_MONETARY, 'en_US');
 

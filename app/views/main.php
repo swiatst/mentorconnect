@@ -8,7 +8,8 @@
 	
 	<!-- Main CSS -->
 	<link rel="stylesheet" href="/mentorconnect/css/styles.css">
-
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    
 	<!-- Payload CSS -->
 	<?php echo Payload::get_css(); ?>
 
@@ -20,18 +21,18 @@
 	<div class="container">
 		<?php echo $primary_header; ?>            
 
-    <main>
-		<?php echo $main_content; ?>
-    </main>
+        <main>
+    		<?php echo $main_content; ?>
+        </main>
 
-    <footer>
+   
 
         <?php echo $primary_footer; ?>
         <!-- <p>&copy FooBar Productions</p> -->
         
-    </footer>
     
-</div>
+    
+    </div>
 
 	<!-- Include Common Scripts -->
 	<script src="/mentorconnect/bower_components/jquery/dist/jquery.js"></script>
