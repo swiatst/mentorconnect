@@ -1,3 +1,4 @@
+
 <?php
 
 /**
@@ -26,7 +27,14 @@ class User extends Model {
 			'first_name' => $input['first_name'],
 			'last_name' => $input['last_name'],
 			'email' => $input['email'],
-			'password' => $input['password']
+			'password' => $input['password'],
+			'image' => $input['image'],
+			'location' => $input['location'],
+			'born' => $input['born'],
+			'current' => $input['current'],
+			'former' => $input['former'],
+			'education' => $input['education']
+
 		];
 
 		// Ensure values are encompased with quote marks
@@ -62,7 +70,13 @@ class User extends Model {
 			'first_name' => $input['first_name'],
 			'last_name' => $input['last_name'],
 			'email' => $input['email'],
-			'password' => $input['password']
+			'password' => $input['password'],
+			'image' => $input['image'],
+			'location' => $input['location'],
+			'born' => $input['born'],
+			'current' => $input['current'],
+			'former' => $input['former'],
+			'education' => $input['education']
 		];
 
 		// Ensure values are encompased with quote marks

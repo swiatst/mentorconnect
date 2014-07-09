@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Oswald', sans-serif;
+    max-width: 1500px;
 
 }
 
@@ -435,7 +436,7 @@ footer p {
 
 .container1 {
 
-    background-color: #E8E8E8;
+    background-color: ##F0F8FF;
     color: blue;
     margin: auto;
     /*border-radius: 15px;*/
@@ -462,6 +463,8 @@ section.profile {
     overflow: hidden;
     display: block;
     margin-top: 10px;
+    background-color: ##F0F8FF;
+    overflow: scroll;
     /*position: absolute;*/
     /*clear: both;*/
 
@@ -485,20 +488,31 @@ aside.profile {
     
 }
 
+
+
 div.info {
+    /*background: url(../images/paper.png);*/
     overflow: hidden;
     position: absolute;
     display: block;
-    background-color: #E8E8E8;
+    background-color: #F0F8FF;
     /*border: 1px solid black;*/
     width: 745px;
-    min-height: 350px;
+    min-height: 300px;
     margin: 10px;
     float: left;
-    text-align: center;
+    text-align: left;
     border-radius: 10px;
-
+    
 }
+
+div.info h4 span.highlight {
+
+    color: blue;
+}
+
+
+
 
 aside.profile img {
 
@@ -510,6 +524,7 @@ aside.profile img {
     float: left;
     display: block;
     border-radius: 10px;
+    margin-right: 15px;
     
 
     
@@ -553,27 +568,41 @@ h3.bottom {
 
 }
 
-h4 {
+div.info h4 {
     
     text-align: left;
     margin-top: 10px;
-    color: blue;
-    margin-left: 10px;
+    color: black;
+    margin-bottom: 20px;
+    /*margin-left: 10px;*/
 
 }
 
-h4.p {
+/*div.info h4 {
+
+    padding-left: 10px;
+}*/
+
+/*h4.p {
     
     text-align: left;
     margin-top: 10px;
     color: black;
     margin-left: 10px;
 
+}*/
+div.info a.mailto {
+
+    margin-left: 275px;
+    margin-right: 50px;
 }
 
-.contact {
+
+
+div.info a {
         
-        margin-top: 10px;
+        
+        margin-top: 15px;
         /*position: absolute;
         right: 140px;
         bottom: 19px;
@@ -608,12 +637,13 @@ h4.p {
         font-size:12px;
         font-weight:bold;
         font-style:normal;
-        height:20px;
+        height:25px;
         line-height:20px;
-        width:65px;
+        width:70px;
         text-decoration:none;
         text-align:center;
         text-shadow:1px 1px 0px #528ecc;
+        padding: 7px;
 
     }
 
@@ -624,10 +654,9 @@ section .column {
     float: right;
     margin: 0 10px 10px 10px;
     background-color: #6699FF;
-    height: 500px;
+    min-height: 500px;
     width: 625px;
     padding: 10px;
-    text-align: center;
     border-radius: 10px;
     /*overflow: hidden;
     clear: both;*/
@@ -637,7 +666,7 @@ section .column {
 
 .headerbox {
 
-    background-color: #E8E8E8;
+    background-color: #F0F8FF;
     width: 605px;
     height: 75px;
     border-radius: 10px;
@@ -646,7 +675,8 @@ section .column {
 
 .h1text {
 
-    margin: 10px;
+    margin: 0px;
+    text-align: center;
 }
 
 .h2box {
@@ -687,15 +717,19 @@ section .column h2.mentees {
 
     display: inline-block;
 
+
+
 }
 .outer {
-  background-color: #E8E8E8;
+  background-color: #BCD2FF;
+  /*#E8E8E8;*/
   /*#597571;*/
   color: black;
   margin:10px;
   width: 275px;
   float: left;
   border-radius: 10px;
+  text-decoration: none;
   
 
 }
@@ -704,12 +738,14 @@ section .column h2.mentees {
 .listing {
   margin-top: 30px;  
   list-style-type: none;
+  overflow: scroll;
  
   float: left;
 }
 
 .listing h4 {
   margin-top: 0;
+
 }
 
 .listing div img {
@@ -723,23 +759,29 @@ section .column h2.mentees {
 }
 
 .content {
-  background-color: #E8E8E8;
+
   margin: 5px;
-  text-align: center;
-  float:right;
+  /*float:right;*/
+  margin-left: 115px;
+  
   
 }
 
+.content a {
 
-.outer {
+    text-decoration: none;
+    color: blue;
+}
+
+/*.outer {
   background-color: #E8E8E8;
   /*#597571;*/
-  margin:10px;
+ /* margin:10px;
   width: 275px;
   float: left;
   
 
-}
+}*/
 
 /*RIGHT FOR MENTEES*/
 
@@ -821,7 +863,7 @@ aside.welcome {
 .leftblocktext {
     
     margin-top: 50px;
-    font-size: 25px;
+    font-size: 30px;
     color: blue;
 
 }
@@ -829,7 +871,7 @@ aside.welcome {
 .leftblocktext1 {
     
     margin-top: 20px;
-    font-size: 20px;
+    font-size: 25px;
     color: black;
 
 
@@ -883,11 +925,21 @@ section.welcome div.dropdown-right {
     display: inline-block;
 }
 
-.choose_role {
+.choose_role, .choose_otherrole {
+
+    font-size: 22px;
+    color: black;
 
     
-    font-size: 18px;
-    color: black;
+}
+
+form .choose_role select, .choose_otherrole select {
+    color: blue;
+    font-size: 20px;
+    height: 30px;
+    border: 1px solid blue;
+
+
 
 }
 
@@ -903,13 +955,7 @@ section.welcome div.dropdown-right {
 
 }
 
-.choose_otherrole {
 
-    /*margin-left: 325px;*/
-    font-size: 18px;
-    color: black;
-
-} 
 
 .matches {
 
@@ -919,7 +965,7 @@ section.welcome div.dropdown-right {
     margin-left: 230px;
     background-color: blue;
     color: white;
-    /*border-radius: 5px;*/
+    border-radius: 10px;
 }    
 
 

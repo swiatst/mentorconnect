@@ -1,6 +1,6 @@
 /*PROFILES PAGE*/
 
-.containerprofile {
+/*.containerprofile {
 
     background-color: #E8E8E8;
     color: blue;
@@ -8,7 +8,7 @@
     /*border-radius: 15px;*/
 
 
-}
+/*}*/
 
 /*main.profile {
 
@@ -23,13 +23,13 @@
 
 }*/
 
-section.profile {
+/*section.profile {
 
     width: 100%;
     height: 520px;
     overflow: hidden;
     display: block;
-    margin-top: 10px;
+    margin-top: 10px;*/
     /*position: absolute;*/
     /*clear: both;*/
     /*margin: auto;*/
@@ -37,7 +37,7 @@ section.profile {
 
     
     
-}
+/*}
 
 
 aside.profile {
@@ -48,18 +48,18 @@ aside.profile {
     background-color: #6699FF;
     border-radius: 10px;
     /*border: 1px solid black;*/
-    float: left;
+    /*float: left;*/
     
 
     
-}
+/*}
 
 div.info {
     overflow: hidden;
     position: absolute;
     display: block;
     background-color: #E8E8E8;
-    /*border: 1px solid black;*/
+    border: 1px solid black;
     width: 745px;
     min-height: 350px;
     margin: 10px;
@@ -67,9 +67,9 @@ div.info {
     text-align: center;
     border-radius: 10px;
 
-}
+}*/
 
-aside.profile img {
+/*aside.profile img {
 
     margin: 10px;
     height: 200px;
@@ -82,7 +82,7 @@ aside.profile img {
     
 
     
-}
+}*/
 
 
 
@@ -97,7 +97,7 @@ aside.profile img {
 
 }*/
 
-.h2name {
+/*.h2name {
     
 
     margin-top: 10px;
@@ -129,9 +129,9 @@ h4 {
     color: black;
     margin-left: 10px;
 
-}
+}*/
 
-.contact {
+/*.contact {
         
         margin-top: 10px;
         /*position: absolute;
@@ -141,13 +141,13 @@ h4 {
         /*display:inline-block;*/
          
 
-        -moz-box-shadow:inset 0px 0px 0px 0px #bbdaf7;
+     /*   -moz-box-shadow:inset 0px 0px 0px 0px #bbdaf7;
         -webkit-box-shadow:inset 0px 0px 0px 0px #bbdaf7;
         box-shadow:inset 0px 0px 0px 0px #bbdaf7;
         background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #378de5) );
         background:-moz-linear-gradient( center top, #79bbff 5%, #378de5 100% );
         /*filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff', endColorstr='#378de5');
-        */background-color:#79bbff;
+        background-color:#79bbff;
         -webkit-border-top-left-radius:15px;
         -moz-border-radius-topleft:15px;
         border-top-left-radius:15px;
@@ -175,11 +175,11 @@ h4 {
         text-align:center;
         text-shadow:1px 1px 0px #528ecc;
 
-    }
+    }*/
 
 /*RIGHT SIDE*/
 
-section .column {
+/*section .column {
 
     float: right;
     margin: 0 10px 10px 10px;
@@ -192,58 +192,59 @@ section .column {
     /*overflow: hidden;*/
     /*clear: both;*/
     
+/*
+}*/
 
-}
 
-.headerbox {
+/*.headerbox {
 
     background-color: #E8E8E8;
     width: 605px;
     height: 75px;
     border-radius: 10px;
     /*display: block;*/
-}
+/*}
 
 .h1text {
 
     padding: 10px;
-}
+}*/
 
-.h2box {
+/*.h2box {
 
-    /*background-color: gray;*/
+    background-color: gray;
     width: 550px;
     height: 50px;
     display: block;
-}
+}*/
 
 /*section .column h1 {
 
     margin-bottom: 10px;
 }*/
 
-section .column h2.mentors {
+/*section .column h2.mentors {
 
     float: left;
     margin-left: 25px;
-    /*display: block;
+    display: block;
     overflow: hidden;
-    position: relative;*/
+    position: relative;
 }
 section .column h2.mentees {
 
-    float: right;
+    float: right;*/
     /*display: block;
     overflow: hidden;
     position: relative;*/
     
-}
+/*}*/
 
 
 /*MEDIA OBJECT*/
 
 /*LEFT FOR MENTORS*/
-.ulmatches {
+/*.ulmatches {
 
     display: inline-block;
     float: left;
@@ -252,17 +253,17 @@ section .column h2.mentees {
 .outer {
   background-color: #E8E8E8;
   /*#597571;*/
-  color: black;
+ /* color: black;
   margin:10px;
   width: 265px;
   float: left;
   border-radius: 10px;
   
 
-}
+}*/
 
 
-.listing {
+/*.listing {
   margin-top: 30px;  
   list-style-type: none;
  
@@ -276,7 +277,7 @@ section .column h2.mentees {
 .listing div img {
   height: 100px;
   width: 100px;
-  /*max-width: 200px;*/
+  max-width: 200px;
   float: left;
   display: block;
   border-radius: 10px;
@@ -295,12 +296,12 @@ section .column h2.mentees {
 .outer {
   background-color: #E8E8E8;
   /*#597571;*/
-  margin:10px;
+ /* margin:10px;
   width: 265px;
   float: left;
   
 
-}
+}*/ 
 
 /*RIGHT FOR MENTEES*/
 

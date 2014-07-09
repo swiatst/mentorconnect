@@ -9,6 +9,11 @@
         <div class="header text">
             <h1><i>mentorconnect.com</i></h1>
         </div>
+        <?php if(isset( $_SESSION['user_id']) && $_SESSION['user_id']) { ?>
+        <div class="surround">
+            <button class="logOut">Log Out</button>   
+        </div>
+        <?php } else { ?>
         <div class="login">
             <?php echo $greeting; ?>
             <form action="login_ajax.php" method="POST">
@@ -18,8 +23,7 @@
             </form>
             
         </div>
-        <div class="surround">
-            <button class="logOut">Log Out</button>   
-        </div>
+        <?php } ?>
+
         
  </header>

@@ -3,18 +3,6 @@
 // Init
 include($_SERVER['DOCUMENT_ROOT'] . '/mentorconnect/app/core/initialize.php');
 
-// if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-//     $sql_choices = $_POST;
-//     // print_r($sql_values);
-//     $table = "user_skill"; 
-//     $sql_choices = User::insert($_POST);
-//     $results = db::execute($$sql_choices);
-//     // $db->insert($table, $sql_choices);
-//     $this->view['redirect'] = '/mentorconnect/profiles.php?'; add
-
-
-// }
-
 // Controller
 class Controller extends AppController {
     public function __construct() {
@@ -30,8 +18,16 @@ class Controller extends AppController {
         $results_role = Skill::getRoles();
         $this->view->roles=$results_role;
 
+        // if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+        //     $sql_choices = $_POST;
+        //     // print_r($sql_values);
+        //     $table = "user_skill"; 
+        //     $sql_choices = user_skill::insert($_POST);
+        //     $results = db::execute($$sql_choices);
+        //     // $db->insert($table, $sql_choices);
+        //     $this->view['redirect'] = '/mentorconnect/profiles.php'; 
 
-
+        // }
 
     }
 
@@ -50,7 +46,7 @@ extract($controller->view->vars);
        <aside class="welcome">
             <div class="leftblocktext">Welcome to <i>mentorconnect.com!</i>
             </div>
-            <div class="leftblocktext1">Where mentors and mentees connect
+            <div class="leftblocktext1">Where mentors and proteges connect
             </div>
             <span class="arrow">
             <i class="fa fa-arrows-h"></i> 
