@@ -38,6 +38,7 @@ class Controller extends AppController {
             AND skill_role_id = 2
             ";
 
+        
         $results = db::execute($sql_profiles);
 
         while($row = $results->fetch_assoc()){
@@ -79,7 +80,7 @@ class Controller extends AppController {
 
 
 
-        // Get where I am a mentor, so we can find my matched mentees
+        // // Get where I am a mentor, so we can find my matched mentees
         $sql_profiles = "
             SELECT *
             FROM user_skill

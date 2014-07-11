@@ -7,7 +7,7 @@
 
 <header>
         <div class="header text">
-            <h1><i>mentorconnect.com</i></h1>
+            <h1>mentorconnect.com</h1>
         </div>
         <?php if(isset( $_SESSION['user_id']) && $_SESSION['user_id']) { ?>
         <div class="surround">

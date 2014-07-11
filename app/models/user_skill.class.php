@@ -36,7 +36,7 @@ class UserSkill extends Model {
         $sql_matches = db::array_in_quotes($sql_matches);
 
         // Insert
-        $results = db::insert('user_skill', $sql_matches);
+        $results = db::insert_ignore('user_skill', $sql_matches);
         
         // Get Recent Insert ID
         // $user_id = $results->insert_id;
